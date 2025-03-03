@@ -1,0 +1,21 @@
+Assignment - 1 (BCA-202 C-Programming)
+--------------------------------------
+Q1. What is a one-dimensional (1-D) array in C language?
+
+Q2. How do you declare a 1-D array in C? Provide an example.
+
+Q3. How do you initialize a 1-D array with specific values in C?
+
+Q4. Explain how to access the elements of a 1-D array. Provide an example.
+
+Q5. How do you determine the length of a 1-D array in C?
+
+Q6. Write a C program to calculate the sum of all elements in a 1-D array.
+
+Q7. What happens if you try to access an element outside the bounds of a 1-D array?
+
+Q8. Write a C program to find the smallest element in a 1-D array.
+
+Q9. Discuss the advantages and disadvantages of using 1-D arrays in C.
+
+Q10. How can you search for a specific element in a 1-D array? Write a program to demonstrate this.
