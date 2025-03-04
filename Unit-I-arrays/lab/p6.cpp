@@ -1,4 +1,4 @@
-// Program 5 : To insert an element in an array
+// Program 6 : To insert an element in an array
 #include <stdio.h>
 #include <conio.h>
 
