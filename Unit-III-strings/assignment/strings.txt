@@ -1,0 +1,13 @@
+BCA-202 
+Assignment - II
+
+Q1. What is a string in C?
+Q2. How do you declare a string in C?
+Q3. How do you initialize a string in C?
+Q4. What function is used to find the length of a string?
+Q5. How do you copy one string to another in C?
+Q6. How do you concatenate two strings in C?
+Q7. What is the difference between strcmp() and strncmp()?
+Q8. How can you convert a string to an integer in C?
+Q9. What is the purpose of the strchr() function?
+Q10. How do you compare two strings in C?

@@ -1,0 +1,10 @@
+What is a pointer in C?
+How do you declare a pointer variable in C?
+What is the difference between a pointer and a regular variable?
+How do you assign the address of a variable to a pointer?
+What is the purpose of the & operator in relation to pointers?
+How do you access the value pointed to by a pointer?
+What is pointer arithmetic, and how does it work?
+What is a null pointer, and why is it important?
+How do you dynamically allocate memory using pointers in C?
+What are the potential risks of using pointers in C, such as dangling pointers or memory leaks?
