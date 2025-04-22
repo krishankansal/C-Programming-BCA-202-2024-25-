@@ -1,0 +1,85 @@
+Lambda functions (Ia an anonymous function) i.e function without name
+----------------
+1. function without name
+2. function without return type
+3. function without modifier
+4. Place arrow
+let take an example of simple function
+
+Example - 1
+------------
+private void sayHello(){
+    System.out.println("Hello");
+}
+1. remove modifier
+void sayHello(){
+    System.out.println("Hello");
+}
+2. remove return type
+sayHello(){
+    System.out.println("Hello");
+}
+3. remove name
+(){
+    System.out.println("Hello");
+}
+4. Place arrow ->
+() -> {
+    System.out.println("Hello");
+}
+5. If only one statement remove {}
+    () -> System.out.println("Hello");  // This is lambda function
+
+Example - 2
+-----------
+private int getString(String str){
+    return str.length();
+}
+
+(String str)->{
+    return str.length();
+}
+
+Data type of parameter will be inferred from the context
+(str)->{
+    return str.length();
+}
+Remove return keyword and {}
+(str) -> str.length();
+
+Remove ()
+
+so the lambda expression  will be
+    str -> str.length();
+
+Example 3
+---------
+
+private void add(int a,int b){
+    System.out.println(a+b);
+}
+
+lambda function
+---------------
+    (a,b) -> Sytem.out.println(a+b)
+
+Example 4
+---------
+private void add(int a,int b){
+    System.out.println(a+b);
+}
+
+lambda function
+---------------
+    (a,b) -> Sytem.out.println(a+b)
+
+Example 5
+---------
+private int add(int a,int b){
+    return (a+b);
+}
+
+lambda function
+---------------
+    (a,b) -> (a+b)
+
